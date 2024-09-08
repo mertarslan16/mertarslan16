@@ -5,6 +5,10 @@
 - 🌱 Exploring Three.js for personal projects
 
 
+### 🔥 GitHub Streak Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=mertarslan16&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+
 ### 🚀 Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -25,13 +29,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-
-
-s
-
-### 🔥 GitHub Streak Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=mertarslan16&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 
 
 ### 🌍 Connect with me:
