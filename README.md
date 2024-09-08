@@ -4,30 +4,8 @@
 - 🔭 I’m currently working on exciting projects with Next.js and Node.js
 - 🌱 Exploring Three.js for personal projects
 
-[![Projects](https://img.shields.io/badge/Projects-Portfolio-blueviolet)](https://your-portfolio-link)
-[![Skills](https://img.shields.io/badge/Skills-Tech_Stack-important)](https://your-tech-stack-link)
-[![About](https://img.shields.io/badge/About-Me-lightgrey)](https://your-about-link)
-
-### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mertarslan16&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mertarslan16&layout=compact&theme=radical)
-
-### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=mertarslan16&theme=onedark)](https://github.com/mertarslan16/github-profile-trophy)
-
-### 🔥 GitHub Streak Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=mertarslan16&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-### 📈 My GitHub Contributions:
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mertarslan16&theme=radical)
-
-### 🚀 GitHub Activity Graph:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mertarslan16&theme=react-dark)
-
 
 ### 🚀 Languages and Tools:
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -49,8 +27,19 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mertarslan16&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mertarslan16&layout=compact&theme=radical)
+
+### 🏆 GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=mertarslan16&theme=onedark)](https://github.com/mertarslan16/github-profile-trophy)
+
+### 🔥 GitHub Streak Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=mertarslan16&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+
+
 ### 🌍 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kullanıcı_adın)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/kullanıcı_adın)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=firefox)](https://portfolio-link)
-[![Mail](https://img.shields.io/badge/Email-Send-blue?style=flat&logo=gmail)](mailto:kullanıcı_adın@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mertarslan16/)
+[![Mail](https://img.shields.io/badge/Email-Send-blue?style=flat&logo=gmail)](mailto:mertarslan1993@gmail.com)
