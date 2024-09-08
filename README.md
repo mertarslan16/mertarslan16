@@ -28,26 +28,27 @@
 
 ### 🚀 Languages and Tools:
 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript" height="30"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="30"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3" height="30"/>
-<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css" alt="TailwindCSS" height="30"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" alt="Bootstrap" height="30"/>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" height="30"/>
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs" alt="Next.js" height="30"/>
-<img src="https://img.shields.io/badge/-Zustand-8D6748?style=flat&logo=zustand" alt="Zustand" height="30"/>
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript" alt="TypeScript" height="30"/>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs" alt="Node.js" height="30"/>
-<img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" alt="Express.js" height="30"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB" height="30"/>
-<img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql" alt="GraphQL" height="30"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql" alt="PostgreSQL" height="30"/>
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="30"/>
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma" alt="Figma" height="30"/>
-<img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm" alt="NPM" height="30"/>
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman" alt="Postman" height="30"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub" height="30"/>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" height="30"/>
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![Zustand](https://img.shields.io/badge/-Zustand-8D6748?style=flat&logo=zustand)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 ### 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kullanıcı_adın)
