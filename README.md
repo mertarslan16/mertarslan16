@@ -27,13 +27,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 
-### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mertarslan16&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mertarslan16&layout=compact&theme=radical)
-
-### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=mertarslan16&theme=onedark)](https://github.com/mertarslan16/github-profile-trophy)
+s
 
 ### 🔥 GitHub Streak Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=mertarslan16&theme=radical&hide_border=true)](https://git.io/streak-stats)
