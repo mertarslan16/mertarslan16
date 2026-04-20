@@ -4,8 +4,9 @@
 - 🔭 I’m currently working on exciting projects with Next.js and Node.js
 - 🌱 Exploring Three.js for personal projects
 
-### 📊 GitHub Stats:
-![Profile Views](https://komarev.com/ghpvc/?username=mertarslan16&color=red&style=flat)
+
+### 🔥 GitHub Streak Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=mertarslan16&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ### 🧠 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertarslan16&layout=compact&theme=radical&hide_border=true&langs_count=8)
