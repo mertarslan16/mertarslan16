@@ -5,10 +5,10 @@
 - 🌱 Exploring Three.js for personal projects
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mertarslan16&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mertarslan16&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
 ### 🧠 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertarslan16&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertarslan16&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ### 🚀 Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
